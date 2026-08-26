@@ -1,0 +1,1092 @@
+    1  omz theme set bira
+    2  omz theme list
+    3  omz theme set nanotech
+    4  omz theme set minimal
+    5  omz theme set lambda
+    6  clear
+    7  omz theme set bira
+    8  clear
+    9  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   10  omz plugin list
+   11  omz plugin enable zsh-autosuggestions
+   12  ls
+   13  clear
+   14  exit
+   15  sudo shutdown -r now
+   16  ls
+   17  exit
+   18  yay -Sy xorgxrdp-git
+   19  ls
+   20  exit
+   21  sudo shutdown -r now
+   22  ipconfig
+   23  clear
+   24  ip -a
+   25  ip a
+   26  sudo systemctl enable sshd.service
+   27  sudo systemctl start sshd.service
+   28  clear
+   29  sudo reboot
+   30  clear
+   31  yay -Sy  --needed xorgxrdp-git
+   32  yay -Sy xrdp
+   33  yay -Sy --needed xrdp
+   34  ls
+   35  clea
+   36  clear
+   37  exit
+   38  sudo systemctl enable xrdp.service
+   39  sudo systemctl start xrdp.service
+   40  clear
+   41  ls a
+   42  ls -a
+   43  ls
+   44  ls -a
+   45  vi .xinitrc
+   46  sudo systemctl restart xrdp.service
+   47  sudo reboot
+   48  ls
+   49  ls -a
+   50  less .xorgxrdp.10.log
+   51  yay -R xrdp
+   52  yay -R xorgxrdp-git
+   53  yay -S --needed --nooconfirm xrdp-git xorgxrdp-git
+   54  yay -S --needed --noo-confirm xrdp-git xorgxrdp-git
+   55  yay -S --needed --noconfirm xrdp-git xorgxrdp-git
+   56  sudo reboot
+   57  sudo systemctl enable xrdp.service
+   58  sudo systemctl start xrdp.service
+   59  sudo shutdown now
+   60  ssh prolinux@10.1.17.115
+   61  ip a
+   62  ping 10.1.17.115
+   63  ip a
+   64  clear
+   65  ip a
+   66  clear
+   67  ip a
+   68  gcc
+   69  ping 10.1.17.166
+   70  ping 8.8.8.8
+   71  ping www.google.com
+   72  ping www.github.com
+   73  clear
+   74  exit
+   75  mousepad
+   76  .
+   77  cd
+   78  D:
+   79  sudo shutdown now
+   80  mousepad
+   81  mv Testing Testing.c
+   82  mv Tesing test.c
+   83  gcc test.c -o test
+   84  ./test
+   85  clear
+   86  rm -rf test
+   87  rm -rf test.c
+   88  clear
+   89  exit
+   90  mv Vivaan.txt Vivaan.c
+   91  gcc Vivaan.c -o Vivaan
+   92  mv Vivaan.c Vivaan.txt
+   93  mv Vivaan.txt Vivaan.c
+   94  gcc Vivaan.c -o Vivaan
+   95  ./Vivaan
+   96  cler
+   97  clear
+   98  rm -rf all
+   99  rm -rf 
+  100  rm -rf Vivaan
+  101  rm -rf Vivaan.c
+  102  exit
+  103  pacman build visual-studio-code-bin
+  104  paman build visual-studio-code-bin
+  105  pamac build visual-studio-code-bin
+  106  visudo
+  107  clear
+  108  gcc Test.c -o Test
+  109  ./Test
+  110  clear
+  111  exit
+  112  rm -rf Test
+  113  gcc Test.c -o Test
+  114  clear
+  115  gcc Test.c -o Test
+  116  ./Test
+  117  .\Test
+  118  less Test
+  119  exit
+  120  mv Testing.txt Test.c
+  121  gcc Test.c -o Test
+  122  less Tst
+  123  less Test
+  124  ./Test
+  125  ./ Test
+  126  sudo ./Test
+  127  exit
+  128  mv Test.txt Test.c
+  129  gcc Test.c -o Test
+  130  ./Test
+  131  mv Test.c Test.txt
+  132  mv Test.txt Test.c
+  133  gcc Test.c -o Test
+  134  ./Test
+  135  mv Test.c Test.txt
+  136  clear
+  137  mv Test.txt Test.c
+  138  gcc Test.c -o Test
+  139  clear
+  140  mv Test.c Test.txt
+  141  mv Test.txt Test.c
+  142  gcc Test.c -o Test
+  143  clear
+  144  mv Test.txt Test.c
+  145  gcc Test.c -o Test
+  146  ./Test
+  147  exit
+  148  mv Test.c Test.txt
+  149  mv Test.txt Test.c
+  150  gcc Test.c -o Test
+  151  mv Test.c Test.txt
+  152  clear
+  153  mv Test.txt Test.c
+  154  gcc Test.c -o Test
+  155  ./Test
+  156  exit
+  157  gcc Plaksha.c -o Plaksha
+  158  ./Plaksha
+  159  exit
+  160  gcc Plaksha.c -o Plaksha
+  161  ./Plaksha
+  162  clear
+  163  ./Plaksha
+  164  clear
+  165  scoop --version
+  166  scoop 
+  167  fastfetch
+  168  ./Plaksha
+  169  clear
+  170  exit
+  171  ping speedtest.net
+  172  chrome
+  173  google chrome
+  174  clear
+  175  firefox
+  176  bye
+  177  sudo pacman -S steam
+  178  sudo pacman -S -noconfirm steam
+  179  sudo pacman -S --noconfirm steam
+  180  steam
+  181  clear
+  182  steam
+  183  steam --reset
+  184  cat /proc/cpuinfo | grep "model name" | uniq
+  185  clear
+  186  sudo pacman -S lib32-mesa lib32-vulkan-intel vulkan-intel --noconfirm
+  187  steam
+  188  steam --reset
+  189  exit
+  190  steam
+  191  clear
+  192  exit
+  193  killall -9 steam steamwebhelper\n
+  194  pkill -9 steam
+  195  sudo pacman -R steam-native-runtime
+  196  sudo pacman -R steam
+  197  sudo pacman -Rs $(pacman -Qdtq)
+  198  clear
+  199  steam --reset
+  200  lscpu
+  201  clear
+  202  sudo pacman -Syu steam vulkan-intel lib32-vulkan-intel mesa lib32-mesa
+  203  steam
+  204  clear
+  205  sudo timedatectl set-ntp true
+  206  sudo pacman -Syu ca-certificates ca-certificates-utils
+  207  steam
+  208  clear
+  209  pkill -9 steam
+  210  sudo pacman -R steam\nsudo pacman -Rs $(pacman -Qdtq)
+  211  rm -rf ~/.local/share/Steam\nrm -rf ~/.steam\nrm -rf ~/.config/steam
+  212  steam
+  213  clear
+  214  sudo pacman -Syu steam vulkan-intel lib32-vulkan-intel mesa lib32-mesa
+  215  steam
+  216  yay -S spotify
+  217  spotify
+  218  exit
+  219  yay -S shelly
+  220  fastfetch
+  221  sudo pacman -S flameshot
+  222  fastfetch
+  223  flameshot gui
+  224  killall flameshot
+  225  sudo pacman -Rs flameshot
+  226  flameshot
+  227  exit
+  228  rm -rf ~/.config/flameshot
+  229  flameshot
+  230  exit
+  231  microfetch
+  232  exit
+  233  yay -S microfetch
+  234  pacman -S microfetch
+  235  sudo pacman -S microfetch
+  236  clear
+  237  bye
+  238  fastfetch
+  239  yay -S --needed --noconfirm flameshot
+  240  gnome
+  241  clear
+  242  bye
+  243  killall flameshot
+  244  bye
+  245  yay -R flameshot
+  246  flameshot
+  247  exit
+  248  fastfetch
+  249  clear
+  250  e
+  251  clear
+  252  b
+  253  clear
+  254  1
+  255  2
+  256  3
+  257  4
+  258  clear
+  259  cd
+  260  clear
+  261  .
+  262  clear
+  263  exit
+  264  fasfetch
+  265  fastfetch
+  266  fish
+  267  oh-my-zsh
+  268  clear
+  269  visual
+  270  vscode
+  271  open
+  272  open steam
+  273  steam
+  274  clear
+  275  bye
+  276  shutdown
+  277  shutdown now
+  278  ulimit -u
+  279  ulimit -a
+  280  who i am
+  281  clear
+  282  sudo su -
+  283  clear
+  284  :(){ :|:& };:
+  285  :(){ :|: };:
+  286  clear
+  287  bye
+  288  whoami
+  289  clear
+  290  bye
+  291  steam
+  292  inxi -G
+  293  inxi -Fza
+  294  bye
+  295  fastfetch
+  296  bye
+  297  ye
+  298  bye
+  299  sudo shutdown now
+  300  ip -a
+  301  ip a
+  302  ping 10.1.20.253
+  303  bye
+  304  lsusb
+  305  Espressif Systems Espressif DeviceEspressif Systems Espressif Devic
+  306  bye
+  307  xrandr
+  308  clear
+  309  lsus
+  310  lsusb
+  311  bye
+  312  df -h
+  313  yay -Sccc
+  314  df -h
+  315  clear
+  316  yay -Sccc
+  317  sudo rm -rf /var/cache/pacman/pkg/download-CmMQvi
+  318  df -h
+  319  clear
+  320  yay -Sccc
+  321  df -h
+  322  clear
+  323  lsblk
+  324  clear
+  325  filesyste
+  326  filesystem
+  327  clear
+  328  bye
+  329  cd run
+  330  cd run/
+  331  cd /run
+  332  cd 
+  333  clear
+  334  pwd
+  335  cd
+  336  ls
+  337  cd Desktop
+  338  ls
+  339  cd 
+  340  cd Downloads
+  341  clear
+  342  cd
+  343  cd Desktop
+  344  ls
+  345  ls -a
+  346  .
+  347  cd ../Downloads
+  348  ../../.
+  349  clear
+  350  cd
+  351  clear
+  352  cd /home/professional/Downloads
+  353  cd
+  354  clear
+  355  lsblk
+  356  cd /run/media/professional/Software
+  357  ls
+  358  ls -a
+  359  clear
+  360  cd
+  361  ls
+  362  cd /dev
+  363  ls
+  364  cd
+  365  ls
+  366  cd dev
+  367  ls
+  368  clear
+  369  mkdir IoT
+  370  ls
+  371  cd IoT
+  372  clear
+  373  mkdir code
+  374  cd code
+  375  clear
+  376  time
+  377  clear
+  378  bye
+  379  code --user-data-dir /home/professional/dev/IoT/code
+  380  bye
+  381  code --user-data-dir /home/professional/dev/IoT/code
+  382  bye
+  383  cd dev/IoT/
+  384  mkdir code
+  385  clear
+  386  ls
+  387  mkdir user-data
+  388  mkdir extensions
+  389  ls
+  390  mv extensions user-data code
+  391  ls
+  392  cd code
+  393  ls
+  394  clear
+  395  tree
+  396  yay -S tree
+  397  tree
+  398  code --user-data-dir /home/professional/dev/IoT/code/user-data --extensions-dir /home/professional/dev/IoT/code/extensions
+  399  clear
+  400  bye
+  401  pio --help
+  402  clear
+  403  bye
+  404  lsusb
+  405  ls /dev/ety*
+  406  ls /dev/tty*
+  407  clear
+  408  id
+  409  sudo usermod -aG uucp professional
+  410  id
+  411  bye
+  412  sudo su - professional
+  413  id
+  414  code --user-data-dir /home/professional/dev/IoT/code/user-data --extensions-dir /home/professional/dev/IoT/code/extensions
+  415  exit
+  416  ls
+  417  id
+  418  sudo restart now
+  419  sudo reboot now
+  420  ping arshitmakhijani.com
+  421  clear
+  422  bye
+  423  nslookup
+  424  nslookup arshitmakhijani.com
+  425  clear
+  426  bye
+  427  yay -S net-tools
+  428  nslookup arshitmakhijani.com
+  429  yay -S bind
+  430  nslookup arshitmakhijani.com
+  431  nslookup sahilmakhijani.com
+  432  ping sahilmakhijani.com
+  433  ping arshitmakhijani.com
+  434  nslookup simplifyit.in
+  435  clear
+  436  nslookup simplifyit.in
+  437  nslookup sahilmakhijani.com
+  438  nslookup arshitmakhijani.com
+  439  nslookup arshitmakhijani.com 8.8.8.8
+  440  nslookup sahilmakhijani.com 8.8.8.8
+  441  clear
+  442  bye
+  443  ip a
+  444  clear
+  445  ssh-keygen --help
+  446  docker --help
+  447  yay -S docker
+  448  yay -S docker docker-compose
+  449  docker --help
+  450  clear
+  451  which docker
+  452  docker -version
+  453  docker --version
+  454  docker -v
+  455  clear
+  456  ls -rhlt
+  457  ls -l -r -t -h
+  458  clear
+  459  ls --help
+  460  clear
+  461  ls -a
+  462  ls -ltrh
+  463  clear
+  464  ls -l --reverse --time -h
+  465  ls -l --reverse --time
+  466  ls -h
+  467  ls --help
+  468  clear
+  469  bye
+  470  id
+  471  bye
+  472  ping arshitmakhijani.com
+  473  byyyyyyyyyyyyyyyyyyyyyyyyyyyyyyye
+  474  bye
+  475  hom
+  476  home
+  477  exit
+  478  close
+  479  love
+  480  happy
+  481  kill
+  482  kill --help
+  483  kill -L
+  484  bye
+  485  fastfetch
+  486  bye
+  487  :(){ :|:&};:
+  488  gcc Test#1.c
+  489  a
+  490  less a
+  491  less a.out
+  492  a.out
+  493  clear
+  494  /home/professional/dev/vscodePrograms/Test#1
+  495  gcc Test#1.c -o Test#1Run
+  496  ./Test#1Run
+  497  clear
+  498  ./Test#1Run
+  499  clear
+  500  gcc Test#1.c -o Test#1Run
+  501  ./Test#1Run
+  502  clear
+  503  bye
+  504  ye
+  505  bye
+  506  gcc Test#1.c -o Test#1Run
+  507  ./Test#1Run
+  508  gcc Test#1.c -o Test#1Run
+  509  ./Test#1Run
+  510  bye
+  511  gcc Test#1.c -o Test#1Run
+  512  ./Test#1Run
+  513  bye
+  514  time
+  515  exit
+  516  bye
+  517  ip a
+  518  ping 10.1.19.196
+  519  bye
+  520  python --version
+  521  python -v
+  522  python --version
+  523  bye
+  524  python --version
+  525  bye
+  526  pip install speedtest-cli\n
+  527  bye
+  528  yay -S ookla-speedtest-bin
+  529  speedtest
+  530  bye
+  531  speedtest
+  532  bye
+  533  python --version
+  534  bye
+  535  speedtest
+  536  exit
+  537  mousepad
+  538  ls
+  539  mv testPy.txt testPy.py
+  540  python testPy.py
+  541  clear
+  542  bye
+  543  python3 --version
+  544  bye
+  545  code .
+  546  bye
+  547  code .
+  548  bye
+  549  code .
+  550  python test.py
+  551  ./test.py
+  552  python test.py
+  553  clear
+  554  bye
+  555  /usr/bin/python /home/professional/dev/ug2030/sem1/coding-cafe/test.py
+  556  bye
+  557  python test.py
+  558  python helo.py
+  559  python hello.py
+  560  bye
+  561  git clone git@github.com:arshitdev/Plaksha-UG2030.git
+  562  ls
+  563  ssh-keygen -t rsa
+  564  less id_rsa.pub
+  565  cd .
+  566  cd ..
+  567  less id_rsa.pub
+  568  cd ~
+  569  cd .ssh
+  570  less id_rsa.pub
+  571  clear
+  572  git clone git@github.com:arshitdev/Plaksha-UG2030.git
+  573  bye
+  574  ls
+  575  bye
+  576  git clone git@github.com:arshitdev/Plaksha-UG2030.git
+  577  tre
+  578  clear
+  579  tree
+  580  bye
+  581  code .
+  582  git config user.name
+  583  git config --list
+  584  git config --global --list
+  585  clear
+  586  git config --global user.name "thinkpadx1-linux"
+  587  git config --global user.email "arshit.makhijani@gmail.com"
+  588  git config --global --list
+  589  bye
+  590  code .
+  591  bye
+  592  gcc printingGivenTest.c -o printingGivenTest
+  593  less printingGivenTest
+  594  ./printingGivenTest
+  595  bye
+  596  gcc numberPattern.c -o numberPattern
+  597  ./numberPattern
+  598  bye
+  599  gcc numberPattern.c -o numberPattern
+  600  ./numberPattern
+  601  bye
+  602  ./numberPattern
+  603  bye
+  604  ./printingGivenTest
+  605  ./numberPattern
+  606  ./printingGivenTest
+  607  ./numberPattern
+  608  /home/professional/dev/Plaksha-UG2030/sem1/computational-thinking/Lab1-assignment/numberPattern
+  609  ./printingGivenTest.c
+  610  ./printingGivenTest
+  611  bye
+  612  gcc numberPattern.c -o numberPattern
+  613  gcc printingGivenTest.c -o printingGivenTest
+  614  ./printingGivenTest
+  615  ./numberPattern
+  616  bye
+  617  sudo shutdown now
+  618  shutdown now
+  619  speedtest
+  620  bye
+  621  sudo pacman -S kamoso
+  622  bye
+  623  sudo pacman -Rns kamoso
+  624  rm -rf ~/.config.kamosorc
+  625  bye
+  626  python --version
+  627  python
+  628  bye
+  629  shutdown now
+  630  ip a
+  631  clear
+  632  ip a
+  633  bye
+  634  ip a
+  635  ping 10.1.21.95
+  636  bye
+  637  ping 8.8.8.8
+  638  clear
+  639  docker -v
+  640  docker run --rm nginx:latest
+  641  sudo docker run --rm 8080:80 nginx
+  642  clear
+  643  sudo systemctl start docker
+  644  sudo systemctl enable docker
+  645  sudo docker run --rm 8080:80 nginx
+  646  clear
+  647  bye
+  648  ip a
+  649  bye
+  650  which docker
+  651  docker --version
+  652  pacman --version
+  653  fasfetch
+  654  fastfetchj
+  655  fastfetch
+  656  clear
+  657  mousepad
+  658  bye
+  659  steam
+  660  kill steam
+  661  kill --help
+  662  kill -l
+  663  bye
+  664  yay -S obsidian
+  665  obsidian
+  666  bye
+  667  fasrfetch
+  668  fastfetch
+  669  clear
+  670  docker --version
+  671  which docker
+  672  sudo docker run --rm 8080:80 nginx
+  673  sudo docker run --rm 80:80 nginx
+  674  docker run --rm 80:80 nginx
+  675  sudo docker run --rm -p 80:80 nginx
+  676  clear
+  677  docker run --rm -p 80:80 nginx
+  678  id
+  679  sudo usermod -aG docker professional
+  680  bye
+  681  docker run --rm -p 80:80 nginx
+  682  clear
+  683  id
+  684  clear
+  685  docker run --rm -p 80:80 nginx
+  686  clea
+  687  clear
+  688  bye
+  689  docker run --rm -p 80:80 nginx
+  690  docker id
+  691  docker a
+  692  docker -l
+  693  docker -la
+  694  clear
+  695  docker ps -a
+  696  bye
+  697  fastfetch
+  698  clear
+  699  cpu
+  700  --help
+  701  help
+  702  bye
+  703  lscpu
+  704  bye
+  705  fasftetch
+  706  fastfetch
+  707  bye
+  708  ip a
+  709  ping 127.0.0.1
+  710  ping google.com
+  711  ping 8.8.8.8
+  712  bye
+  713  clear
+  714  ip a
+  715  clear
+  716  docker --version
+  717  where docker
+  718  python --version
+  719  python3
+  720  bye
+  721  fastfetch
+  722  microfetch
+  723  bye
+  724  yay -S microfetch-bin
+  725  microfetch
+  726  bye
+  727  microfetch
+  728  oh-my-zsh
+  729  bye
+  730  fastfetch
+  731  bye
+  732  fastfetch
+  733  bye
+  734  fastfetch
+  735  docker --version
+  736  bye
+  737  microfetch
+  738  sudo shutdown --help
+  739  sudo systemctl suspend
+  740  bye
+  741  fastfetch
+  742  microfetch
+  743  bye
+  744  byye
+  745  bye
+  746  bbye
+  747  bye
+  748  fastfetch
+  749  microfetch
+  750  bye
+  751  python3
+  752  python --version
+  753  python3 --version
+  754  bye
+  755  fastfetch
+  756  microfetch
+  757  bye
+  758  yay -S zoom
+  759  zoom
+  760  time
+  761  bye
+  762  speedtest
+  763  bye
+  764  fastfetch
+  765  microfetch
+  766  bye
+  767  chrome
+  768  google chrome
+  769  bye
+  770  fastfetch
+  771  microfetch
+  772  yay --help
+  773  clear
+  774  id
+  775  usermod -h
+  776  clear
+  777  sudo usermod -rG docker professional
+  778  id
+  779  sudo su - professional
+  780  id
+  781  exit
+  782  id
+  783  clear
+  784  bye
+  785  id
+  786  sudo usermod -aG docker professional
+  787  sudo su - professional
+  788  id
+  789  exit
+  790  bye
+  791  id
+  792  sudo usermod -aG docker professional
+  793  sudo su - professional
+  794  id
+  795  signout
+  796  bye
+  797  id
+  798  docker --version
+  799  which docker
+  800  bye
+  801  speedtest
+  802  bye
+  803  sudo timedatectl set-ntp true
+  804  sudo timedatectl set-timezone Asia/Kolkata
+  805  time
+  806  clear
+  807  bye
+  808  clear
+  809  sudo nano/etc/defaults/grub
+  810  sudo nano /etc/defaults/grub
+  811  sudo nano /etc/default/grub
+  812  sudo update-grub
+  813  bye
+  814  sudo systemctl ntp true
+  815  clear
+  816  sudo timedatectl set-ntp true
+  817  clea
+  818  clear
+  819  bye
+  820  suspend
+  821  bye
+  822  ifconfig --help
+  823  ip a
+  824  clear
+  825  bye
+  826  ip a
+  827  bye
+  828  sudo ls -ltrh
+  829  ls -ltrh
+  830  yay -S minecraft-launcher
+  831  javac --version
+  832  javac -version
+  833  sudo apt-get update
+  834  java -version
+  835  archlinux-java status
+  836  pamac install jdk-openjdk
+  837  speedtest
+  838  bye
+  839  java -version
+  840  javac -version
+  841  sudo shutdown now
+  842  cat .bash_history
+  843  cat --help
+  844  cat 
+  845  cat -A
+  846  cat ~/.bash_history
+  847  cat ~/.zhistory
+  848  echo $HISTFILESIZE
+  849  clea
+  850  clear
+  851  history
+  852  ls -ltrh
+  853  clea
+  854  clear
+  855  hist
+  856  history
+  857  clear
+  858  ls /
+  859  df -h
+  860  clear
+  861  ls -lh
+  862  rm -rf coding-cafe
+  863  ls
+  864  cd dev/Plaksha-UG2030/sem1
+  865  git status
+  866  exit
+  867  cd dev/Plaksha-UG2030/sem1
+  868  git status
+  869  git stash
+  870  ls
+  871  pw
+  872  pwd
+  873  .
+  874  cd .
+  875  cd ..
+  876  ~
+  877  pwd
+  878  clear
+  879  pwd
+  880  cd dev/Plaksha-UG2030/sem1/coding-cafe
+  881  pwd
+  882  touch notes.md
+  883  ls
+  884  rm -rf notes.md 
+  885  ls
+  886  ..
+  887  .
+  888  ..
+  889  ~
+  890  clear
+  891  cd dev/Plaksha-UG2030/sem1/coding-cafe
+  892  mkdir week01
+  893  ls
+  894  mv hello.py week01
+  895  ls
+  896  cd week01
+  897  ls
+  898  clear
+  899  tree
+  900  ..
+  901  //
+  902  ~
+  903  cd dev/Plaksha-UG2030/sem1/coding-cafe
+  904  tree
+  905  ..
+  906  tree
+  907  cd coding-cafe
+  908  ls
+  909  mkdir week02
+  910  ls
+  911  clear
+  912  ..
+  913  tree
+  914  cd sem1/coding-cafe/week02
+  915  clear
+  916  ls
+  917  clear
+  918  touch notes.md
+  919  ls
+  920  git status
+  921  ls
+  922  rm -rf notes.md
+  923  ls
+  924  clear
+  925  touch notes.md lab01-log.txt
+  926  ls
+  927  ls --help
+  928  clear
+  929  ls -l
+  930  clear
+  931  ~
+  932  pwd
+  933  ls
+  934  ls -a
+  935  ls -l
+  936  ..
+  937  ~
+  938  cd dev/Plaksha-UG2030/sem1/coding-cafe
+  939  ls
+  940  touch README.md
+  941  ls
+  942  history
+  943  ls
+  944  clear
+  945  bye
+  946  ls
+  947  pwd
+  948  ls
+  949  ls -a
+  950  ls -l
+  951  clear
+  952  pwd
+  953  ls
+  954  ls -a
+  955  ls -l
+  956  ls dev/Plaksha-UG2030/sem1/coding-cafe
+  957  ls dev/Plaksha-UG2030/sem1/coding-cafe/week01
+  958  ls dev/Plaksha-UG2030/sem1/coding-cafe/week02
+  959  ls
+  960  cd dev/Plaksha-UG2030/sem1/coding-cafe
+  961  ls
+  962  cd week01
+  963  ls
+  964  ..
+  965  cd week02
+  966  ls
+  967  clear
+  968  ls
+  969  nano notes.md
+  970  pwd
+  971  ls
+  972  ls -a
+  973  ls -l
+  974  ls
+  975  less notes.md
+  976  sudo shutdown now
+  977  code
+  978  bye
+  979  gcc basicOperator.c -o basicOperator
+  980  gcc buzzNumber.c -o buzzNumber
+  981  gcc eligibilityCheck.c -o eligibilityCheck
+  982  gcc evenOdd.c -o evenOdd
+  983  clear
+  984  less basicOperator
+  985  ./basicOperator
+  986  clear
+  987  ./eligibilityCheck
+  988  clea
+  989  clear
+  990  ./evenOdd
+  991  clear
+  992  ./buzzNumber
+  993  clear
+  994  bye
+  995  sudo shutdown now
+  996  python3 --version
+  997  clear
+  998  pwd
+  999  ls -ltrh
+ 1000  clear
+ 1001  bye
+ 1002  sudo shutdown now
+ 1003  speedtest
+ 1004  bye
+ 1005  cd dev/Plaksha-UG2030/sem1/coding-cafe
+ 1006  ls
+ 1007  cd week02
+ 1008  ls
+ 1009  nano notes.md
+ 1010  ls
+ 1011  bye
+ 1012  ip a
+ 1013  ping www.google.com
+ 1014  bye
+ 1015  shutdown now
+ 1016  cd dev/Plaksha-UG2030/sem1/coding-cafe
+ 1017  cd week02
+ 1018  ls
+ 1019  nano notes.md
+ 1020  echo $PATH
+ 1021  which python3
+ 1022  pyton3
+ 1023  python3
+ 1024  clea
+ 1025  clear
+ 1026  pyton3
+ 1027  python --version
+ 1028  python
+ 1029  clear
+ 1030  python3 --help
+ 1031  clear
+ 1032  python3 -m venv .venv
+ 1033  ls
+ 1034  ls -a
+ 1035  source .venv/bin/activate
+ 1036  which python3
+ 1037  history
+ 1038  clear
+ 1039  bye
+ 1040  exit
+ 1041  source .venv/bin/activate
+ 1042  which python3
+ 1043  ..
+ 1044  bye
+ 1045  which python3
+ 1046  source .venv/bin/activate
+ 1047  which python3
+ 1048  echo $PATH
+ 1049  pip list
+ 1050  pip install requests
+ 1051  pip list
+ 1052  python3
+ 1053  bye
+ 1054  nano notes.md
+ 1055  bye
+ 1056  history
+ 1057  clear
+ 1058  source .venv/bin/activate
+ 1059  pip list
+ 1060  deactivate
+ 1061  which python3
+ 1062  nano notes.md
+ 1063  cd week02
+ 1064  cd dev/Plaksha-UG2030/sem1/coding-cafe/week02
+ 1065  ls
+ 1066  cleare
+ 1067  clear
+ 1068  nano notes.md
+ 1069  which python3
+ 1070  ls -h
+ 1071  ls
+ 1072  ls -h
+ 1073  clear
+ 1074  man ls
+ 1075  ls -l
+ 1076  ls -h
+ 1077  clear
+ 1078  ls -l
+ 1079  ls -lh
+ 1080  bye
+ 1081  nano notes.md
+ 1082  bye
+ 1083  sudo shutdown now
+ 1084  exi
+ 1085  texit
+ 1086  exit
+ 1087  which python3.14
+ 1088  clear
+ 1089  bye
+ 1090  cd dev/Plaksha-UG2030/sem1/coding-cafe/week02
+ 1091  nano notes.md
+ 1092  ls
