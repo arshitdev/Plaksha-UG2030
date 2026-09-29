@@ -1,22 +1,42 @@
+# Coding Cafe — Semester 1
 
-# CLI and Virtual Environment Basics
+This repository tracks my Coding Cafe lab work, from getting comfortable with the terminal to writing interactive Python programs in Jupyter notebooks.
 
-This summary outlines key takeaways from exploring the Linux command line, system environment variables, and Python package management. 
+## Progress so far
 
-## 📂 File System & Navigation
-* **Directory Listing:** Explored `pwd` to print working directories and used `ls` with various flags, including `-a` (reveal hidden files), `-l` (view file types, like `d` for directory, and permissions), and `-h` (display file sizes in a human-readable format).
-* **Pathing:** Differentiated between absolute paths and relative paths (e.g., navigating directly to `coding-cafe/week02` from a parent directory).
-* **File Manipulation:** Utilized the `mv` command for two distinct tasks: moving files into sub-directories and renaming files in place.
+| Work | What I practiced |
+| --- | --- |
+| [Week 1: Hello Python](week01/hello.py) | Wrote a first Python script that prints a greeting. |
+| [Week 2: Terminal notes](week02/notes.md) | Explored navigation, file listings, relative paths, `mv`, `PATH`, virtual environments, package installation, and terminal shortcuts. |
+| [Week 3: Python basics](week03/lab2_cc_2026.ipynb) | Used Jupyter code and Markdown cells; worked with variables, `int`/`float`/`bool`/`str`, type casting, arithmetic, comparisons, string operations, and `input()`. |
+| [Lab 3: Conditionals and loops](lab03/lab3-final-assignment.ipynb) | Wrote exercises using `if`/`elif`/`else`, Boolean logic, `for` and `while` loops, `range()`, `break`, `continue`, and a conditional expression. |
 
-## 🌍 PATH & Virtual Environments
-* **Environment Variables:** Analyzed the system `PATH` to understand how the shell searches through colon-separated directories from left to right to locate executables like `python3`. 
-* **Troubleshooting:** Learned that "command not found" errors occur when the shell finishes searching the entire `PATH` without finding a matching executable for your input.
-* **Hidden Environments:** Created a Python virtual environment (`python3 -m venv .venv`), noting that the `.` prefix keeps the folder hidden from a standard `ls` command.
-* **Activation Mechanics:** Discovered that `activate` prepends the `.venv/bin` directory to the `PATH` and changes the terminal prompt. This ensures the shell prioritizes the virtual environment's binaries over global installations.
-* **Package Management:** Installed the `requests` library, observed how `pip` automatically pulls in dependencies, and used the `deactivate` command to cleanly restore the original system `PATH`.
+The Lab 3 notebook includes a ship classifier, a triangle classifier, an escape pod decision, a number guessing game, a vowel counter, and a longer goblin alchemy exercise.
 
-## ⌨️ Essential Shortcuts
-* **Process Interruption (`Ctrl + C`):** Interrupts and kills the currently running process, returning control to the terminal prompt.
-* **Terminal Exit (`Ctrl + D`):** Signals End-of-File (EOF) and cleanly exits the current terminal session.
-README.md
-Displaying README.md.
+## Files
+
+```text
+coding-cafe/
+├── README.md
+├── week01/
+│   └── hello.py
+├── week02/
+│   ├── lab01-log.txt
+│   └── notes.md
+├── week03/
+│   └── lab2_cc_2026.ipynb
+└── lab03/
+    └── lab3-final-assignment.ipynb
+```
+
+`week02/lab01-log.txt` is a saved terminal history. It includes commands from outside this coursework as well as the Week 2 lab, so [the notes](week02/notes.md) are the more focused record of what I learned there.
+
+## Running the work
+
+Run the Week 1 script from the repository root:
+
+```bash
+python3 week01/hello.py
+```
+
+Open either `.ipynb` file in Jupyter or an editor that supports notebooks and run cells as you work through it. The notebooks use interactive `input()` prompts. The Week 3 notebook also contains experiments with invalid syntax, so some cells are meant to produce errors.
